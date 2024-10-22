@@ -1,29 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a268e6-f1d8-44fa-a5f7-abbd3d02648f" name="Changes" comment="" />
+    <list default="true" id="d4a268e6-f1d8-44fa-a5f7-abbd3d02648f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/image_processing20201111-9535-qana4i-300x225 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/image_processing20201126-27708-1rko0pe-300x225 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sign-up-ui-768x401 1 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sign-up-ui-768x401 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style 5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style 6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style 1.css" beforeDir="false" afterPath="$PROJECT_DIR$/style 1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style 2.css" beforeDir="false" afterPath="$PROJECT_DIR$/style 2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style 3.css" beforeDir="false" afterPath="$PROJECT_DIR$/style 3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style 4.css" beforeDir="false" afterPath="$PROJECT_DIR$/style 4.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Anna-okten&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Anna-okten/mini_project_html.git&quot;,
+    &quot;accountId&quot;: &quot;c9c99ba2-f684-4cf3-b26c-fed0b8be47f6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2njsKMa24qI2Xjk2SX2DcSI9ZF5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a.domeshkina/IdeaProjects/mini project html/img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a.domeshkina\IdeaProjects\mini project html\img" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -40,7 +92,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729497756190</updated>
-      <workItem from="1729497757509" duration="8000" />
+      <workItem from="1729497757509" duration="1429000" />
+      <workItem from="1729499739657" duration="4715000" />
+      <workItem from="1729505726031" duration="3649000" />
+      <workItem from="1729511085143" duration="3434000" />
+      <workItem from="1729514808558" duration="3614000" />
+      <workItem from="1729518481288" duration="656000" />
+      <workItem from="1729580292378" duration="2469000" />
+      <workItem from="1729583181927" duration="2072000" />
+      <workItem from="1729585398951" duration="13242000" />
     </task>
     <servers />
   </component>

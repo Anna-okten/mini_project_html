@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.w-1440{
+    width: 1440px;
+    margin: 0 auto;
+    font-family: Poppins, sans-serif;
+    background: #FAF4F2;
+}
+.developer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:  0 176px 0 182px;
+}
+.developer div h2{
+    width: 475px;
+    color: #222;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 62px; /* 155% */
+    padding-top: 112px;
+}
+.developer div p{
+    width: 509px;
+    height: 144px;
+    color: #222;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+.logo{
+    width: 240px;
+    height: 48px;
+    padding: 54px 0 29px 0;
+}
+.button{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    }
+.button__send{
+    width: 151px;
+    height: 55px;
+    border-radius: 10px;
+    background: #FF2950;
+    color: #F9F9F9;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: none;
+    margin-right: 30px;
+}
+.button__download{
+    width: 153px;
+    height: 55px;
+    border-radius: 10px;
+    border: 2px solid #FF9B70;
+    color: rgba(34, 34, 34, 0.50);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

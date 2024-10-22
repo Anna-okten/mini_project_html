@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.w-1440{
+    width: 1440px;
+    margin: 0 auto;
+    font-family: Poppins, sans-serif;
+    background: #FAF4F2;
+}
+.portfolio{
+    width: 203px;
+    color: #222;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 123.6%; /* 59.328px */
+    text-transform: capitalize;
+    margin: 125px 0 64px 150px;
+   }
+
+.grid img{
+    width: 310px;
+}
+.grid{
+    height: 70vh;
+    display: grid;
+    grid-template-columns: repeat(3,310px);
+    grid-template-rows: repeat(2,310px);
+    gap: 24px;
+    justify-content:flex-start;
+    align-content: center;
+    margin:  0 231px 100px 231px;
+}
