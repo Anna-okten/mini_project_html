@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a268e6-f1d8-44fa-a5f7-abbd3d02648f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/image_processing20201111-9535-qana4i-300x225 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/image_processing20201126-27708-1rko0pe-300x225 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sign-up-ui-768x401 1 (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sign-up-ui-768x401 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style 5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style 6.css" afterDir="false" />
+    <list default="true" id="d4a268e6-f1d8-44fa-a5f7-abbd3d02648f" name="Changes" comment="mini project">
+      <change afterPath="$PROJECT_DIR$/img/Close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/check-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style6.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style 1.css" beforeDir="false" afterPath="$PROJECT_DIR$/style 1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style 2.css" beforeDir="false" afterPath="$PROJECT_DIR$/style 2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style 3.css" beforeDir="false" afterPath="$PROJECT_DIR$/style 3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style 4.css" beforeDir="false" afterPath="$PROJECT_DIR$/style 4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style 1.css" beforeDir="false" afterPath="$PROJECT_DIR$/style1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style 2.css" beforeDir="false" afterPath="$PROJECT_DIR$/style2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style 3.css" beforeDir="false" afterPath="$PROJECT_DIR$/style3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style 4.css" beforeDir="false" afterPath="$PROJECT_DIR$/style4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style 5.css" beforeDir="false" afterPath="$PROJECT_DIR$/style5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style 6.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,10 +100,25 @@
       <workItem from="1729580292378" duration="2469000" />
       <workItem from="1729583181927" duration="2072000" />
       <workItem from="1729585398951" duration="13242000" />
+      <workItem from="1729599932073" duration="141000" />
+      <workItem from="1729670261146" duration="16974000" />
     </task>
+    <task id="LOCAL-00001" summary="mini project">
+      <option name="closed" value="true" />
+      <created>1729599989527</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729599989527</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mini project" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini project" />
   </component>
 </project>
