@@ -1,18 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-*{
-    margin: 0;
-    padding: 0;
-}
-.w-1440{
-    width: 1440px;
-    margin: 0 auto;
-    font-family: Poppins, sans-serif;
-    background: #FAF4F2;
-}
+
 .price{
     display: flex;
-    justify-content: center;
+    justify-content:center ;
     align-items: center;
+    flex-direction: column;
 }
  .price h2{
      color:  #222;
@@ -21,11 +12,18 @@
      font-weight: 600;
      line-height: 123.6%; /* 59.328px */
      text-transform: capitalize;
+     display: flex;
+     justify-content:center;
+     align-items: center;
+     padding: 125px 0 64px 0;
+
  }
  .plans{
      display: flex;
      justify-content: center;
      align-items: center;
+     gap: 68px;
+     padding-bottom: 100px;
       }
 .plan{
     width: 335px;
@@ -33,12 +31,9 @@
     border-radius: 15px;
     background: #F9F9F9;
     box-shadow: 0px 20px 40px 0px rgba(255, 115, 21, 0.10);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    text-align: center;
 }
-.plan div:nth-child(1){
+.plan div{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,8 +42,9 @@
     box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.05);
     height: 66px;
     width: 335px;
+    margin: 0;
 }
-.plan div:nth-child(1) p{
+.plan div p{
     color: #F9F9F9;
     font-size: 24px;
     font-style: normal;
@@ -67,20 +63,28 @@
     font-weight: 500;
     line-height: 24px; /* 171.429% */
     text-transform: capitalize;
+    margin-bottom: 16px;
 }
-.plan p{
-    color:  #222;
-    font-kerning: none;
-    font-feature-settings: 'calt' off;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px; /* 171.429% */
-    text-transform: capitalize;
+.plan ul{
+    margin-left: 48px;
 }
-.plan svg{
-    width: 66px;
+ .plans :first-child :last-child   :nth-child(n+3) {
+    opacity: 0.5;
+}
+.plans :nth-child(2) :last-child   :nth-child(n+5) {
+    opacity: 0.5;
+}
+
+.plan ul img{
+    width: 25px;
     height: 24px;
+    margin-right: 16px;
+
+}
+.plan ul li{
+    display: flex;
+    align-items:center;
+
 }
 .plan h4{
     color: #2B2B2B;
@@ -102,10 +106,6 @@
     text-transform: capitalize;
     opacity: 0.5;
 }
-
-
-
-
 
 .working{
     width: 1110px;
